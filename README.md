@@ -1,4 +1,4 @@
-Superstore-sales-dashboard-powerbi
+Superstore_sales_dashboard_powerbi :
 
 Data based on Superstore sales.
 
